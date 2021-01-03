@@ -16,14 +16,12 @@ MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS)
 ## Przy pomocy dedykowanej aplikacji na system Windows/MacOS/Linux
 
 1. Jeśli jeszcze nie masz zainstalowanej dedykowanej aplikacji 
-pobierz ją z poniższych stron:
+pobierz ją z poniższych stron a następnie zainstaluj w systemie:
    * [Dla Windows](https://slack.com/intl/en-pl/downloads/windows)
    * [Dla Mac](https://slack.com/intl/en-pl/downloads/mac)
    * [Dla Linux](https://slack.com/intl/en-pl/downloads/linux)
 
-Po pobraniu pliku zainstaluj aplikację.
-
-2. Uruchom aplikację.
+2. Po instalacji uruchom aplikację.
 
 3. Wybierz przycisk `Sign In to Slack`.
 
