@@ -10,8 +10,8 @@ MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS)
 2. Możesz podać adres e-mail lub powiązać login z kontem Google (jeśli takie posiadasz):
     * Podaj adres e-mail użyty przy rejestracji konta oraz hasło i wybierz `Sign in`.
     * LUB jeśli adres e-mail którego użyłeś przy rejestracji pochodzi z konta google (@gmail.com) 
-    kliknij przycisk `Continue with Google` - to logowanie wymaga konto google i nie jest potrzene
-    osobne hasło Slack.
+    kliknij przycisk `Continue with Google` - przy tym logowaniu nie będzie potrzebne hasło Slack
+    a jedynie uwierzytelnienie na konto Google.
 
 ## Przy pomocy dedykowanej aplikacji na system Windows/MacOS/Linux
 
