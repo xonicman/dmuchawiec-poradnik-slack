@@ -1,6 +1,6 @@
 # Jak dołączyć do Slack Dmuchawca?
 
-Spis treści:
+## Spis treści
 * [Kto może dołączyć?](#kto-może-dołączyć)
 * [Co potrzebujesz do założenia konta Slack?](#co-potrzebujesz-zanim-założysz-konto-na-slack)
     * [Konto e-mail](#konto-e-mail)
@@ -101,3 +101,7 @@ Jest to specjalny techniczny użytkownik / robot, który
 będzie wysyłał wiadomości
 i opowiadomienia bezpośrednio do Ciebie.
 Inne osoby nie będą widziały jego wiadomości.
+
+# Co dalej?
+
+Sprawdź w jaki sposób możesz [zalogować się](logowanie.md) na konto Slack Dmuchawiec.
