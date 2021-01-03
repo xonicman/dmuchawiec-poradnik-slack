@@ -16,7 +16,7 @@ MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS)
 ## Przy pomocy dedykowanej aplikacji na system Windows/MacOS/Linux
 
 1. Jeśli jeszcze nie masz zainstalowanej dedykowanej aplikacji 
-pobierz ją z poniższych stron a następnie zainstaluj w systemie:
+pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
    * [Dla Windows](https://slack.com/intl/en-pl/downloads/windows)
    * [Dla Mac](https://slack.com/intl/en-pl/downloads/mac)
    * [Dla Linux](https://slack.com/intl/en-pl/downloads/linux)
