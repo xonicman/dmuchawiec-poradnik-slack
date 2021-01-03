@@ -20,6 +20,7 @@ pobierz ją z poniższych stron:
    * [Dla Windows](https://slack.com/intl/en-pl/downloads/windows)
    * [Dla Mac](https://slack.com/intl/en-pl/downloads/mac)
    * [Dla Linux](https://slack.com/intl/en-pl/downloads/linux)
+
 Po pobraniu pliku zainstaluj aplikację.
 
 2. Uruchom aplikację.
