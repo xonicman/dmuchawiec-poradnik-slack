@@ -105,3 +105,8 @@ Inne osoby nie będą widziały jego wiadomości.
 # Co dalej?
 
 Sprawdź w jaki sposób możesz [zalogować się](logowanie.md) na konto Slack Dmuchawiec.
+
+# Powrót na stronę główną
+
+[Strona główna](../README.md)
+
