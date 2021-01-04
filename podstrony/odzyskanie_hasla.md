@@ -11,4 +11,4 @@ Instrukcja:
 
 # Powrót na stronę główną
 
-[Strona główna](../../README.md)
+[Strona główna](../README.md)
