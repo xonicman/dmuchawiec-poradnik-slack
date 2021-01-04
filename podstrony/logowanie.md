@@ -36,7 +36,7 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
     a jedynie uwierzytelnienie na konto Google.
     
 6. W przeglądarce otworzy się okno z pytaniem 'Otworzyć Slack?'
-    * zaznacz `Zawsze zezwalaj stronie dmuchawiec.slack.com na otwieranie linków tego typu w powiązaniu aplikacji`
+    * jeśli pojawi się taka opcja zaznacz `Zawsze zezwalaj stronie dmuchawiec.slack.com na otwieranie linków tego typu w powiązaniu aplikacji`
     * wybierz przycisk `Otwórz Slack`
     
 7. Ponownie otworzy się aplikacja Slack na której będziesz już zalogowany.
