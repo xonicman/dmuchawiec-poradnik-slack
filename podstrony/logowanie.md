@@ -6,6 +6,12 @@ MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS)
 
 Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
 
+Poniżej szczegóły jak możesz zalogować się przy pomocy:
+  * [przeglądarki internetowej](#przy-pomocy-przegladarki),
+  * [dedykowanej aplikacji na Windows/Mac/Linux](#przy-pomocy-dedykowanej-aplikacji-na-system-Windows-Mac-Linux),
+  * [smartphona](#na-smartphone-android-lub-iPhone-iOS)
+
+
 
 ## Przy pomocy przeglądarki
 
@@ -17,7 +23,7 @@ Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
     a jedynie uwierzytelnienie na konto Google.
 
 
-## Przy pomocy dedykowanej aplikacji na system Windows/MacOS/Linux
+## Przy pomocy dedykowanej aplikacji na system Windows/Mac/Linux
 
 1. Jeśli jeszcze nie masz zainstalowanej dedykowanej aplikacji 
 pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
