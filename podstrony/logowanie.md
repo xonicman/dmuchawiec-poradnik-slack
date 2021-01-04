@@ -42,12 +42,26 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
 7. Ponownie otworzy się aplikacja Slack na której będziesz już zalogowany.
 
 
-## Na smartphone Android
+## Na smartphone Android lub iPhone (iOS)
 
-## Na smartphone iPhone (iOS)
+1. Pobierz aplikację Slack z Google Play (Android) lub z App Store (iOS)
+
+2. Uruchom Slack.
+
+3. Pierwsze logowanie rozpocznij od przycisku `Continue with Email`
+
+4. Podaj e-mail
+
+5. Wybierz `Use password to sign-in`
+
+6. W polu `Your Slack Worspace URL:` wpisz `dmuchawiec.slack.com`
+
+7. Podaj hasło wybrane podczas [zakładania konta Slack](jak_dolaczyc.md)
+
+8. Jesteś zalogowany!
+
 
 # Powrót na stronę główną
 
 [Strona główna](../README.md)
-
 
