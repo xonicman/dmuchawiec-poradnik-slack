@@ -12,7 +12,7 @@
     * [Gdy nie znajdziesz odpowiedzi na pytanie](#gdy-nie-znajdziesz-odpowiedzi-w-tym-poradniku)
 * [Jak dołączyć do Slack Dmuchawca? Jak założyć konto?](podstrony/jak_dolaczyc.md)
 * [Jak zalogować się dla Slack - mam już konto](podstrony/logowanie.md).
-* Nie pamiętam hasła dostępu. Jak go odzyskać?
+* [Nie pamiętam hasła dostępu. Jak go odzyskać?](podstrony/odzyskanie_hasla.md).
 * Co zrobić aby napisać do kogoś bezpośrednio wiadomość?
 * Co to są kanały i jak z nich korzystać?
 * [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/ograniczenia_wersji_darmowej_slack.md)
