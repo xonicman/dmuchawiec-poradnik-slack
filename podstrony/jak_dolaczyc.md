@@ -34,7 +34,7 @@ Może to być na przykład
 ### Kontakt do administratora Slack
 
 Sprawdź kto obecnie jest
-[administratorem Slack](administratorzy_slack.md)
+[administratorem Slack](administratorzy.md)
 Dmuchawca, aby mógł autoryzować dostęp dla Ciebie
 i Twojego dziecka.
 
@@ -45,7 +45,7 @@ Jeśli chcesz utworzyć dwa konta
 pamiętaj, że musissz posiadać dwa adresy e-mail.
 
 1. Skontaktuj się z
-[administratorem Slack](administratorzy_slack.md).
+[administratorem Slack](administratorzy.md).
 Dowolnym bezpiecznym kanałem (preferowany e-mail
 lub Facebook Messanger) prześlij mu takie informacje jak:
     * Pełne imię i nazwisko.
