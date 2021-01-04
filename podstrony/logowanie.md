@@ -1,4 +1,4 @@
-# Jak zalogować się do Slack Dmuchawiec, gdy masz już konto
+# Jak zalogować się do Slack Dmuchawiec
 
 Jeśli masz już [konto Slack Dmuchawiec](jak_dolaczyc.md) możesz zalogować
 się za pomocą przeglądarki, dedykowanej aplikacji na systemy Windows, 
