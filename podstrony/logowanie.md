@@ -4,6 +4,8 @@ Jeśli masz już [konto Slack Dmuchawiec](jak_dolaczyc.md) możesz zalogować
 się za pomocą przeglądarki, dedykowanej aplikacji na systemy Windows, 
 MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS).
 
+Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
+
 ## Przy pomocy przeglądarki
 
 1. Wejdź na stronę https://dmuchawiec.slack.com
