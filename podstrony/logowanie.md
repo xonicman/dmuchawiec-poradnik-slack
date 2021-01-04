@@ -8,7 +8,7 @@ Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
 
 Poniżej szczegóły jak możesz zalogować się przy pomocy:
   * [przeglądarki internetowej](#przy-pomocy-przegladarki),
-  * [dedykowanej aplikacji na Windows/Mac/Linux](#przy-pomocy-dedykowanej-aplikacji-na-system-Windows-Mac-Linux),
+  * [dedykowanej aplikacji na Windows/Mac/Linux](#przy-pomocy-dedykowanej-aplikacji-na-system-Windows-Mac-Linux)
   * lub [smartphona](#na-smartphone-android-lub-iPhone-iOS).
 
 
