@@ -6,6 +6,7 @@ MacOS lub Linux oraz za pomocą aplikacji na smartfonie Android lub iPhone (iOS)
 
 Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
 
+
 ## Przy pomocy przeglądarki
 
 1. Wejdź na stronę https://dmuchawiec.slack.com
@@ -14,6 +15,7 @@ Jeśli nie pamiętasz hasła - [odzyskaj go](odzyskanie_hasla.md).
     * LUB jeśli adres e-mail którego użyłeś przy rejestracji pochodzi z konta google (@gmail.com) 
     kliknij przycisk `Continue with Google` - przy tym logowaniu nie będzie potrzebne hasło Slack
     a jedynie uwierzytelnienie na konto Google.
+
 
 ## Przy pomocy dedykowanej aplikacji na system Windows/MacOS/Linux
 
@@ -64,4 +66,3 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
 # Powrót na stronę główną
 
 [Strona główna](../README.md)
-
