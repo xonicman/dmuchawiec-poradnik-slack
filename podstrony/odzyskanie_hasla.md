@@ -7,4 +7,4 @@ Instrukcja:
 
 1. Wejdź na stronę https://dmuchawiec.slack.com/forgot/reset
 2. Wpisz swój adres e-mail
-3. Odbierz pocztę od slack i postępuj zgodnie z instrukcją tam zawartą.
+3. Odbierz pocztę od slack i postępuj zgodnie z instrukcją tam zawartą aby ustawić nowe hasło Slack.
