@@ -45,3 +45,9 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
 ## Na smartphone Android
 
 ## Na smartphone iPhone (iOS)
+
+# Powrót na stronę główną
+
+[Strona główna](../README.md)
+
+
