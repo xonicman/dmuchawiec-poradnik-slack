@@ -36,27 +36,27 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
     a jedynie uwierzytelnienie na konto Google.
     
 6. W przeglądarce otworzy się okno z pytaniem 'Otworzyć Slack?'
-    * jeśli pojawi się taka opcja zaznacz `Zawsze zezwalaj stronie dmuchawiec.slack.com na otwieranie linków tego typu w powiązaniu aplikacji`
-    * wybierz przycisk `Otwórz Slack`
+    * jeśli pojawi się taka opcja zaznacz `Zawsze zezwalaj stronie dmuchawiec.slack.com na otwieranie linków tego typu w powiązaniu aplikacji`;
+    * wybierz przycisk `Otwórz Slack`.
     
 7. Ponownie otworzy się aplikacja Slack na której będziesz już zalogowany.
 
 
 ## Na smartphone Android lub iPhone (iOS)
 
-1. Pobierz aplikację Slack z Google Play (Android) lub z App Store (iOS)
+1. Pobierz aplikację Slack z Google Play (Android) lub z App Store (iOS);
 
-2. Uruchom Slack.
+2. Uruchom Slack;
 
-3. Pierwsze logowanie rozpocznij od przycisku `Continue with Email`
+3. Pierwsze logowanie rozpocznij od przycisku `Continue with Email`;
 
-4. Podaj e-mail
+4. Podaj e-mail;
 
-5. Wybierz `Use password to sign-in`
+5. Wybierz `Use password to sign-in`;
 
-6. W polu `Your Slack Worspace URL:` wpisz `dmuchawiec.slack.com`
+6. W polu `Your Slack Worspace URL:` wpisz `dmuchawiec.slack.com`;
 
-7. Podaj hasło wybrane podczas [zakładania konta Slack](jak_dolaczyc.md)
+7. Podaj hasło wybrane podczas [zakładania konta Slack](jak_dolaczyc.md);
 
 8. Jesteś zalogowany!
 
