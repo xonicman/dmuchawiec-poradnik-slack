@@ -52,7 +52,7 @@ pobierz ją z jednej z poniższych stron a następnie zainstaluj w systemie:
 
 3. Pierwsze logowanie rozpocznij od przycisku `Continue with Email`.
 
-4. Podaj e-mail.
+4. Podaj adres e-mail.
 
 5. Wybierz `Use password to sign-in`.
 
