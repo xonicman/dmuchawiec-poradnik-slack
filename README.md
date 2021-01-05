@@ -19,7 +19,7 @@
     * Co to są kanały i jak z nich korzystać?
     * Jak bezpiecznie korzystać z komunikatora?
 * Inne:
-    * [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/administratorzy.mdograniczenia_wersji_darmowej.md)
+    * [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/ograniczenia_wersji_darmowej.md)
     * W jaki sposób pomóc we współtworzeniu tej strony?
 
 
