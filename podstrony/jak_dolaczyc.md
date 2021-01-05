@@ -1,6 +1,6 @@
 # Jak dołączyć do Slack Dmuchawca?
 
-Spis treści:
+## Spis treści
 * [Kto może dołączyć?](#kto-może-dołączyć)
 * [Co potrzebujesz do założenia konta Slack?](#co-potrzebujesz-zanim-założysz-konto-na-slack)
     * [Konto e-mail](#konto-e-mail)
@@ -34,7 +34,7 @@ Może to być na przykład
 ### Kontakt do administratora Slack
 
 Sprawdź kto obecnie jest
-[administratorem Slack](administratorzy_slack.md)
+[administratorem Slack](administratorzy.md)
 Dmuchawca, aby mógł autoryzować dostęp dla Ciebie
 i Twojego dziecka.
 
@@ -45,7 +45,7 @@ Jeśli chcesz utworzyć dwa konta
 pamiętaj, że musissz posiadać dwa adresy e-mail.
 
 1. Skontaktuj się z
-[administratorem Slack](administratorzy_slack.md).
+[administratorem Slack](administratorzy.md).
 Dowolnym bezpiecznym kanałem (preferowany e-mail
 lub Facebook Messanger) prześlij mu takie informacje jak:
     * Pełne imię i nazwisko.
@@ -101,3 +101,12 @@ Jest to specjalny techniczny użytkownik / robot, który
 będzie wysyłał wiadomości
 i opowiadomienia bezpośrednio do Ciebie.
 Inne osoby nie będą widziały jego wiadomości.
+
+# Co dalej?
+
+Sprawdź w jaki sposób możesz [zalogować się](logowanie.md) na konto Slack Dmuchawiec.
+
+# Powrót na stronę główną
+
+[Strona główna](../README.md)
+

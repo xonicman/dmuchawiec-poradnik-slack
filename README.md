@@ -10,13 +10,17 @@
     * [Dlaczego Slack?](#dlaczego-slack)
     * [Oficjalna dokumentacja Slack](#oficjalna-dokumentacja-slack)
     * [Gdy nie znajdziesz odpowiedzi na pytanie](#gdy-nie-znajdziesz-odpowiedzi-w-tym-poradniku)
-* [Jak dołączyć do Slack Dmuchawca? Jak założyć konto?](podstrony/jak_dolaczyc.md)
-* Jak zalogować się dla Slack - mam już konto.
-* Co zrobić aby napisać do kogoś bezpośrednio wiadomość?
-* Co to są kanały i jak z nich korzystać?
-* [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/ograniczenia_wersji_darmowej_slack.md)
-* Jak bezpiecznie korzystać z komunikatora?
-* W jaki sposób pomóc we współtworzeniu tej strony?
+* Zakładanie konta i logowanie:
+    * [Jak dołączyć do Slack Dmuchawca? Jak założyć konto?](podstrony/jak_dolaczyc.md)
+    * [Jak zalogować się dla Slack? Mam już konto.](podstrony/logowanie.md)
+    * [Nie pamiętam hasła dostępu. Jak je odzyskać?](podstrony/odzyskanie_hasla.md)
+* Porady dla użytkownika:
+    * W jaki sposób wysłać do kogoś bezpośrednio wiadomość?
+    * Co to są kanały i jak z nich korzystać?
+    * Jak bezpiecznie korzystać z komunikatora?
+* Inne:
+    * [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/ograniczenia_wersji_darmowej.md)
+    * W jaki sposób pomóc we współtworzeniu tej strony?
 
 
 ## Slack
@@ -104,4 +108,4 @@ Spójrz na [spis treści](#spis-treści).
 Jeśli nie znalazłeś odpowiedzi na pytanie związane ze Slack
 w tym poradniku lub w oficjalnej dokumentacji
 zgłoś się do 
-[administratorów](podstrony/administratorzy_slack.md).
+[administratorów](podstrony/administratorzy.md).

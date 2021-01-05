@@ -42,3 +42,9 @@ gdyż Slack jest przeznaczony do bieżącej, codziennej komunikacji.
 Ważne informacje i dokumenty powinny być zapisywane
 i udostępniane za pomocą innych narzędzi
 takich jak Google Drive, Callendar lub Dzienniczek Vulcan.
+
+# Powrót na stronę główną
+
+[Strona główna](../README.md)
+
+
