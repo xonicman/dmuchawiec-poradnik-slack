@@ -22,6 +22,8 @@ i zaznacz gwiazdkę przy kontakcie w górnej części widoku;
 - w aplikacji mobilnej wybierz kontakt, kliknij na jego nazwie
 w górnej części aplikacji i zaznacz gwizdkę w górnym prawym rogu.
 
+Odznaczając gwiazdkę usuwamy pozycję z sekcji `Starred`.
+
 # Powrót na stronę główną
 
 [Strona główna](../README.md)
