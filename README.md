@@ -16,8 +16,8 @@
     * [Nie pamiętam hasła dostępu. Jak je odzyskać?](podstrony/odzyskanie_hasla.md)
 * Porady dla użytkownika:
     * [W jaki sposób wysłać do kogoś bezpośrednio wiadomość?](podstrony/wiadomosc.md)
-    * [W jaki sposób grupować kontakty i nimi zarządzać?](podstrony/zarzadzanie_kontaktami.md)
     * [Co to są kanały i jak z nich korzystać?](podstrony/kanaly.md)
+    * [W jaki sposób utworzyć ulubione kontakty i kanały?](podstrony/starred.md)
     * [Jak bezpiecznie korzystać z komunikatora?](podstrony/bezpieczenstwo.md)
 * Inne:
     * [Korzystamy obecnie z wersji darmowej Slack. Jakie są jej ograniczenia?](podstrony/ograniczenia_wersji_darmowej.md)
