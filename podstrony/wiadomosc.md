@@ -1,7 +1,7 @@
 # Pierwsze kroki - wysyłanie wiadomości
 
 Komunikacja tekstowa - chat - jest podstawową funkcjonalnością Slack. 
-Poniższe zakładają, że masz już konto na Slack 
+Poniższe zakładają, że masz już [konto na Slack](jak_dolaczyc.md) 
 w https://dmuchawiec.slack.com i jesteś [zalogowany](logowanie.md).
 
 ## Z przeglądarki
