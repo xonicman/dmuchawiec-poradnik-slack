@@ -13,7 +13,7 @@ Autouzupełnianie zasugeruje Ci możliwych odbiorców.
 Wybierz właściwego odbiorcę.
 3. Jeśli chcesz wysłać wiadomość do wielu odbiorców 
 w polu `To:` dopisz kolejne osoby.
-4. Naciśnij Enter
+4. Naciśnij Enter.
 5. W dolnej części ekranu wpisz wiadomość i wyślij ją kończąc wiadomość Enterem.
 
 Po przeprowadzeniu rozmowy kontakt automatycznie 
