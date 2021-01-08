@@ -15,7 +15,7 @@
     * [Jak zalogować się dla Slack? Mam już konto.](podstrony/logowanie.md)
     * [Nie pamiętam hasła dostępu. Jak je odzyskać?](podstrony/odzyskanie_hasla.md)
 * Porady dla użytkownika:
-    * [W jaki sposób wysłać do kogoś bezpośrednio wiadomość?](podstrony/wiadomosc.md)
+    * [W jaki sposób wysłać do kogoś wiadomość?](podstrony/wiadomosc.md)
     * [Co to są kanały i jak z nich korzystać?](podstrony/kanaly.md)
     * [W jaki sposób zgrupować ulubione kontakty i kanały?](podstrony/starred.md)
     * [Jak bezpiecznie korzystać z komunikatora?](podstrony/bezpieczenstwo.md)
