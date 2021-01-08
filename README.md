@@ -16,6 +16,7 @@
     * [Nie pamiętam hasła dostępu. Jak je odzyskać?](podstrony/odzyskanie_hasla.md)
 * Porady dla użytkownika:
     * [W jaki sposób wysłać do kogoś bezpośrednio wiadomość?](podstrony/wiadomosc.md)
+    * [W jaki sposób grupować kontakty i nimi zarządzać?](podstrony/zarzadzanie_kontaktami.md)
     * [Co to są kanały i jak z nich korzystać?](podstrony/kanaly.md)
     * [Jak bezpiecznie korzystać z komunikatora?](podstrony/bezpieczenstwo.md)
 * Inne:
